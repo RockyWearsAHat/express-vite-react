@@ -25,6 +25,7 @@ export default {
     preserveModules: true,
     preserveModulesRoot: ".",
   },
+
   external(id) {
     return id.includes(sep + "node_modules" + sep);
   },
