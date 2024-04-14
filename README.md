@@ -1,6 +1,6 @@
 # Project to demonstrate vite, react & express running on the same port
 
-### The plugin is courtesy of [Noam](https://noam.hashnode.dev/using-vite-to-serve-and-hot-reload-react-app-express-api-together)
+### The plugin is courtesy of [Noam, check out his blog post here](https://noam.hashnode.dev/using-vite-to-serve-and-hot-reload-react-app-express-api-together)
 
 This is not proxying to my knowledge?
 
